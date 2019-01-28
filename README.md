@@ -1,5 +1,7 @@
 # analysis_selectionSort
 A Big-Θ analysis  
+Benchmarking the behavior of Java implementations of selection sort  
+The program include both an iterative and recursive version of the algorithm
 result by run SortMain class in Eclipse:
 
 ![image](https://user-images.githubusercontent.com/44309297/51810124-ff38b280-2273-11e9-8d30-6294a697d30d.png)
