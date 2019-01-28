@@ -1,5 +1,5 @@
 # analysis_selectionSort
-A Big-Θ analysis 
+A Big-Θ analysis  
 result by run SortMain class in Eclipse:
 
 ![image](https://user-images.githubusercontent.com/44309297/51810124-ff38b280-2273-11e9-8d30-6294a697d30d.png)
